@@ -22,6 +22,7 @@ This image is developed from the various images shown to the neural network and 
 For example : 
 
 ![Inceptionism ](Assets/inceptionism.PNG)
+
 Here this is to identiy dumbells, but All the training images have muscles in it hence when just dumbells are given to text without muscles, it may identify it incorrectly hence the developer on looking at those images can identify where to make the changes and implement it to get the correct output.
 
 ### 4. Activation Space [4]
